@@ -9,7 +9,7 @@
 S.No.    |  Objective
 ---------|----------------
 01       | Introduction
-02       | Install - Windows
+02       | Install - [Windows](https://github.com/kudoabhijeet/ExperienceTerraform/blob/master/WINDOWS.md)
 03       | Install - Linux
 
 
